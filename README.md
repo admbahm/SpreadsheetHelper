@@ -38,7 +38,7 @@ Lean Software Development emphasizes efficiency, waste reduction, and continuous
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/lean-software-development-templates.git
+git clone git@github.com:admbahm/SpreadsheetHelper.git
 cd lean-software-development-templates
 ```
 
