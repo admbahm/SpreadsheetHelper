@@ -78,7 +78,3 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 - [Pandas](https://pandas.pydata.org/): For providing powerful data manipulation capabilities.
 - The Lean Software Development community for their continuous efforts in improving software processes.
-
----
-
-Feel free to replace placeholder text like `your-username` with your actual GitHub username and add any additional sections or customizations as needed. This README provides a clear, structured overview of your repository's purpose, features, and usage instructions.
